@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "name" : "Incognito",
+        "desc" : "Provides multi cuisine food",
+        "cuisine" : ["Indian","Mexican"],
+        "price" : 2000,
+        "place": "Baner"
+    },
+    {
+        "id" : 2,
+        "name" : "Welcome",
+        "desc" : "Provides multi cuisine food",
+        "cuisine" : ["Indian","Mexican","Punjabi"],
+        "price" : 1500,
+        "place": "Shivaji Nagar"
+    },
+    {
+        "id" : 3,
+        "name" : "Public",
+        "desc" : "Provides multi cuisine food",
+        "cuisine" : ["Indian","Mexican","Italian"],
+        "price" : 900,
+        "place": "Hinjewadi"
+    },
+    {
+        "id" : 4,
+        "name" : "Punjabi Rasoi",
+        "desc" : "Provides multi cuisine food",
+        "cuisine" : ["Punjabi"],
+        "price" : 2000,
+        "place": "Baner"
+    },
+    {
+        "id" : 5,
+        "name" : "squitio",
+        "desc" : "Provides multi cuisine food",
+        "cuisine" : ["Italian"],
+        "price" : 2500,
+        "place": "Magarpatta"
+    }
+]
